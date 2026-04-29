@@ -1,0 +1,13 @@
+{
+  "name": "cities-of-paradox",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "npm --prefix apps/web run dev",
+    "build": "npm --prefix apps/web run build",
+    "preview": "npm --prefix apps/web run preview"
+  }
+}

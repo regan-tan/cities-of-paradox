@@ -1,0 +1,25 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder image for site media">
+  <defs>
+    <linearGradient id="siteGradient" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#12203D"/>
+      <stop offset="1" stop-color="#0A1317"/>
+    </linearGradient>
+    <radialGradient id="siteGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 180) rotate(28.6) scale(410 280)">
+      <stop stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="siteGlow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 540) rotate(20) scale(420 300)">
+      <stop stop-color="#4ADE80" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4ADE80" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#siteGradient)"/>
+  <rect width="1200" height="720" fill="url(#siteGlow)"/>
+  <rect width="1200" height="720" fill="url(#siteGlow2)"/>
+  <rect x="40" y="40" width="1120" height="640" rx="22" stroke="#9AA7C8" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="12 14"/>
+  <g fill="#E7ECFF" opacity="0.85" font-family="'Manrope', sans-serif" text-anchor="middle">
+    <text x="600" y="332" font-size="42" font-weight="700">Replace With Your Own Photograph</text>
+    <text x="600" y="384" font-size="24" font-weight="500" opacity="0.85">Cities of Paradox project placeholder</text>
+  </g>
+</svg>
